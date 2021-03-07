@@ -1,1 +1,1 @@
-# OCR
+# Desarrollar un programa para leer facturas comerciales, BLs, guias, etc. que se requieran para llenar una declaracion de importación. El objetivo es reducir el numero de errores de los analistas en las agencias de aduanas en el proceso de digitación. 
